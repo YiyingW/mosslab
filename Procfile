@@ -1,0 +1,1 @@
+web: gunicorn mosslab.wsgi --log-file -
